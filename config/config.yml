@@ -1,0 +1,9 @@
+db:
+  mysql:
+    host: 127.0.1
+    level: 2
+    prot: '213'
+  mysql2:
+    host: 127.0.1
+    level: 3
+    prot: '213'

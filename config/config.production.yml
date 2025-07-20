@@ -1,0 +1,8 @@
+db:
+  mysql:
+    host: 127.0.1
+    name: mysql-prod1
+  mysql2:
+    host: 127.0.1
+    name: mysql-prod2
+    
