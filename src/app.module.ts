@@ -10,7 +10,7 @@ import { ConfigEnum } from './enum/config.enum';
 import { User } from './user/user.entity';
 import { Profile } from './user/profile.entity';
 import { Logs } from './logs/logs.entity';
-import { Roles } from "./roles/roles.entity";
+import { Roles } from './roles/roles.entity';
 const envFile = `.env.${process.env.NODE_ENV || 'development'}`;
 @Module({
   imports: [
